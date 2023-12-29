@@ -1,0 +1,31 @@
+Caro estudante,
+ 
+Temos por certo que os desafios sempre contribuem para a aquisição de conhecimentos e competências desejadas. Sendo assim, torna-se efetivo relacionar o que se aprende com situações reais.
+ 
+Nesta atividade, você é convidado a verificar como a disciplina em questão pode contribuir para a sua experiência e formação profissional. Para isso, atente-se para as orientações desta atividade MAPA e realize um ótimo trabalho!
+ 
+Considere que você é um desenvolvedor que foi contratado pela diretora de uma escola para apresentar uma solução tecnológica para o controle de notas e frequência dos alunos.
+ 
+A diretora desta pequena escola solicita que você construa um sistema que auxilie no registro de notas dos alunos. Pensando nesta demanda, você decide desenvolver um sistema em Java para esta solução.
+ 
+A escola necessita que seja registrado para cada aluno:
+
+ - a matrícula do aluno;
+ - nome do aluno;
+ - valor das três notas; e
+ - quantidade de presenças.
+ 
+Atenção: sabe-se que sempre existem 60 encontros.
+
+Após ser lançado as informações, a diretora espera que sejam exibidos:
+
+ - nome do aluno com sua média de notas, e
+ - percentual de presença em relação ao total dos 60 encontros.
+ 
+Exemplo do cálculo de presença: percentualPresenca = (presenca/60)*100.
+ 
+Para a entrega desta atividade você deverá desenvolver o código e entrega-lo rodando e apresentando as informações solicitadas pela diretora.
+ 
+Atenção:
+
+Para esta atividade MAPA construa seu código na linguagem JAVA. Após finalizar a sua atividade, certifique-se de que todos os itens solicitados foram atendidos e envie no formato .pdf, .txt ou .doc na ferramenta Studeo.
